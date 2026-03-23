@@ -15,9 +15,10 @@
 (function() {
     'use strict';
 
-    // Configuration
-    const serverUrl = ''; //填写你的 memos 服务器地址
-    const token = ''; //填写你的 memos api token
+    // ================= Configuration =================
+    const serverUrl = 'https://your-memos-domain.com'; // Your Memos URL
+    const token = 'your_access_token_here';           // Your Memos Access Token
+    // =================================================
 
     // 存储当前拦截的模式：null | 'PUBLIC' | 'PRIVATE'
     let interceptMode = null;
