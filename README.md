@@ -36,6 +36,7 @@ Memos has a default limit of **8192** characters. To sync long AI responses:
 1.  **Memos Settings**: Go to `Settings -> Memo` and set `Maximum content length` to `100000`.
 2.  **Nginx**: If using a reverse proxy, add `client_max_body_size 10M;` to your config to avoid `413` errors.
 
+---
 
 ### 🚀 简介
 这是一个强大的油猴（Tampermonkey）脚本，旨在将 **Google AI Studio** 和 **通义千问** 的 AI 回复内容一键同步到你的自部署 **Memos** 笔记系统中。
