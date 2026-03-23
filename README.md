@@ -1,7 +1,7 @@
 # AI Chat to Memos Sync Script
 
-Google AI Studio：[https://aistudio.google.com](https://aistudio.google.com)
-通义千问 (Qianwen)：[https://www.qianwen.com](https://www.qianwen.com)
+- Google AI Studio：[https://aistudio.google.com](https://aistudio.google.com)
+- 通义千问 (Qianwen)：[https://www.qianwen.com](https://www.qianwen.com)
 
 <img width="1807" height="791" alt="image" src="https://github.com/user-attachments/assets/2e14ca03-9a4a-42ed-8852-1afff740aa0d" />
 
